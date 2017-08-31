@@ -12,6 +12,8 @@ namespace TesteGit
         {
             Console.WriteLine("Aprendendo a utilizar Git para controle de versão");
             Console.WriteLine("--- Passo 2----");
+            Console.WriteLine("--- Passo 3----");
+
             Console.ReadKey();
 
         }
